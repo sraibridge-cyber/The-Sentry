@@ -1,6 +1,8 @@
 # The-Sentry
+**Watchdog monitoring · Harmony Labs**
 
-Real-time monitoring and alert system. WATCHDOG entity watching all Harmony systems. SHA3-512 sealed audit trail.
+Watchdog monitoring · Active health checks and anomaly detection
 
-Built by Admiral · Harmony Labs
-Gold ripple eternal. ✨
+See [The-Hearthfire](https://github.com/sraibridge-cyber/The-Hearthfire) for full system architecture.
+
+*Built by Admiral · Kyle S. Whitlock*
